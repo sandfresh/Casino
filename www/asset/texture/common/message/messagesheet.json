@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "msgbackground",
+	"frame": {"x":1,"y":1,"w":1578,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1578,"h":146},
+	"sourceSize": {"w":1578,"h":146}
+},
+{
+	"filename": "msgbet",
+	"frame": {"x":557,"y":149,"w":500,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":122},
+	"sourceSize": {"w":500,"h":122}
+},
+{
+	"filename": "msgdraw",
+	"frame": {"x":1581,"y":1,"w":302,"h":166},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":302,"h":166},
+	"sourceSize": {"w":302,"h":166}
+},
+{
+	"filename": "msghigh",
+	"frame": {"x":1561,"y":169,"w":302,"h":166},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":302,"h":166},
+	"sourceSize": {"w":302,"h":166}
+},
+{
+	"filename": "msginsufficient",
+	"frame": {"x":1,"y":149,"w":554,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":554,"h":168},
+	"sourceSize": {"w":554,"h":168}
+},
+{
+	"filename": "msgopen",
+	"frame": {"x":1059,"y":149,"w":500,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":122},
+	"sourceSize": {"w":500,"h":122}
+},
+{
+	"filename": "msgstopbet",
+	"frame": {"x":557,"y":273,"w":500,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":122},
+	"sourceSize": {"w":500,"h":122}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "messagesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1884,"h":396},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6f771fe6a6781a0a31f4c8c496c6a686:89455f7d1fb089ea3231608b8d6af249:fb1a800279adf9196b6f9c04df8fbdcb$"
+}
+}

@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "proyalflush",
+	"frame": {"x":686,"y":1034,"w":1116,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1116,"h":540},
+	"sourceSize": {"w":1116,"h":540}
+},
+{
+	"filename": "redribbon",
+	"frame": {"x":2,"y":2,"w":1654,"h":1030},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1654,"h":1030},
+	"sourceSize": {"w":1654,"h":1030}
+},
+{
+	"filename": "strflush",
+	"frame": {"x":686,"y":1576,"w":1116,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1116,"h":432},
+	"sourceSize": {"w":1116,"h":432}
+},
+{
+	"filename": "win",
+	"frame": {"x":1658,"y":2,"w":339,"h":302},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":339,"h":302},
+	"sourceSize": {"w":339,"h":302}
+},
+{
+	"filename": "winhalo",
+	"frame": {"x":2,"y":1034,"w":682,"h":682},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":682,"h":682},
+	"sourceSize": {"w":682,"h":682}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "wineffect0.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7dfc047d711c19503f909a54065ac352:591250867e763b10fb73dfa2f9639188:10fe00de8f09ee141f7f604f9da74a97$"
+}
+}

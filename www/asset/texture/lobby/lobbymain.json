@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "background",
+	"frame": {"x":432,"y":2,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720}
+},
+{
+	"filename": "curtain",
+	"frame": {"x":2,"y":2,"w":428,"h":996},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":428,"h":996},
+	"sourceSize": {"w":428,"h":996}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "lobbymain.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a2337659bd087d27589a0b8c16f5910e:34925c406f38ce75d1b086847368d58d:b3dad7c1859c455b762a707e49ea42b0$"
+}
+}

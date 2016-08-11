@@ -1,0 +1,116 @@
+{"frames": [
+
+{
+	"filename": "glory0",
+	"frame": {"x":1594,"y":560,"w":396,"h":556},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":556},
+	"sourceSize": {"w":396,"h":556}
+},
+{
+	"filename": "glory1",
+	"frame": {"x":1196,"y":560,"w":396,"h":556},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":556},
+	"sourceSize": {"w":396,"h":556}
+},
+{
+	"filename": "glory2",
+	"frame": {"x":798,"y":1118,"w":396,"h":556},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":556},
+	"sourceSize": {"w":396,"h":556}
+},
+{
+	"filename": "glory3",
+	"frame": {"x":798,"y":560,"w":396,"h":556},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":556},
+	"sourceSize": {"w":396,"h":556}
+},
+{
+	"filename": "glory4",
+	"frame": {"x":400,"y":1118,"w":396,"h":556},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":556},
+	"sourceSize": {"w":396,"h":556}
+},
+{
+	"filename": "mainbtn0_0",
+	"frame": {"x":400,"y":560,"w":396,"h":556},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":556},
+	"sourceSize": {"w":396,"h":556}
+},
+{
+	"filename": "mainbtn0_1",
+	"frame": {"x":1594,"y":2,"w":396,"h":556},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":556},
+	"sourceSize": {"w":396,"h":556}
+},
+{
+	"filename": "mainbtn1_0",
+	"frame": {"x":1196,"y":2,"w":396,"h":556},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":556},
+	"sourceSize": {"w":396,"h":556}
+},
+{
+	"filename": "mainbtn1_1",
+	"frame": {"x":798,"y":2,"w":396,"h":556},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":556},
+	"sourceSize": {"w":396,"h":556}
+},
+{
+	"filename": "mainbtn2_0",
+	"frame": {"x":400,"y":2,"w":396,"h":556},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":556},
+	"sourceSize": {"w":396,"h":556}
+},
+{
+	"filename": "mainbtn2_1",
+	"frame": {"x":2,"y":1118,"w":396,"h":556},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":556},
+	"sourceSize": {"w":396,"h":556}
+},
+{
+	"filename": "mainbtn3_0",
+	"frame": {"x":2,"y":560,"w":396,"h":556},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":556},
+	"sourceSize": {"w":396,"h":556}
+},
+{
+	"filename": "mainbtn3_1",
+	"frame": {"x":2,"y":2,"w":396,"h":556},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":556},
+	"sourceSize": {"w":396,"h":556}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "lobbybutton.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:17fcbe8bf21b0ae6e91418b63e6abc48:8e890b409ad623a93284a5605221cb16:2a51f196a870d01157d27280b3c9b342$"
+}
+}

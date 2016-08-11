@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "loginbar",
+	"frame": {"x":2,"y":1120,"w":1068,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1068,"h":34},
+	"sourceSize": {"w":1068,"h":34}
+},
+{
+	"filename": "loginbarbg",
+	"frame": {"x":2,"y":1084,"w":1068,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1068,"h":34},
+	"sourceSize": {"w":1068,"h":34}
+},
+{
+	"filename": "loginbg",
+	"frame": {"x":2,"y":2,"w":1920,"h":1080},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":1080},
+	"sourceSize": {"w":1920,"h":1080}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "loginsheet.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d68a87dda3fef73e8eb2224cbc16a47b:4809421efd38c3d61deddd7bf4e349a4:0868b61870d2476bd500cbc8bad97ddb$"
+}
+}

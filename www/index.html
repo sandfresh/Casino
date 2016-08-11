@@ -1,0 +1,107 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>HTML5Casino</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1, IE=Edge">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-mobile-web-app-title" content="Didu Gaming">
+    <meta name="viewport" content="initial-scale=1 maximum-scale=1 user-scalable=0 minimal-ui" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <!-- non-retina iPhone pre iOS 7 -->
+    <link rel="apple-touch-icon" sizes="57x57" href="icons/app_icon_57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="icons/app_icon_60x60.png">
+    <!-- non-retina iPad pre iOS 7 -->
+    <link rel="apple-touch-icon" sizes="72x72" href="icons/app_icon_72x72.png">
+    <!-- non-retina iPad iOS 7 -->
+    <link rel="apple-touch-icon" sizes="76x76" href="icons/app_icon_76x76.png">
+    <!-- retina iPhone pre iOS 7 -->
+    <link rel="apple-touch-icon" sizes="114x114" href="icons/app_icon_114x114.png">
+    <!-- retina iPhone iOS 7 -->
+    <link rel="apple-touch-icon" sizes="120x120" href="icons/app_icon_120x120.png">
+    <!-- retina iPad pre iOS 7 -->
+    <link rel="apple-touch-icon" sizes="144x144" href="icons/app_icon_144x144.png">
+    <!-- retina iPad iOS 7 -->
+    <link rel="apple-touch-icon" sizes="152x152" href="icons/app_icon_152x152.png">
+    <link rel="apple-touch-icon" sizes="256x256" href="icons/app_icon_256x256.png">
+    <link rel="apple-touch-icon" sizes="512x512" href="icons/app_icon_512x512.png">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="icons/app_icon_1024x1024.png">
+    <link rel="stylesheet" href="css/stylesheet.css" type="text/css" charset="utf-8" />
+    <!-- Load Phaser engine -->
+    <script src="lib/phaser.min.js"></script>
+    <script src="lib/phaser-input.js"></script>
+
+	<!-- Load game source files -->
+	<script src="src/Value/Enum.js"></script>
+    <script src="src/Value/OddsValue.js"></script>
+    <script src="src/Value/WebSockeMsgName.js"></script>
+    <script src="src/Value/SpriteName.js"></script>
+    <script src="src/Utilities.js"></script>
+    <script src="src/MessageWindow.js"></script>
+    <script src="src/Manager/GameMgr.js"></script>
+    <script src="src/Network/Client.js"></script>
+    <script src="src/CustomConfig.js"></script>
+    <script src="src/Value/EnumValueConvertor.js"></script>
+    <script src="src/GameObject/LobbyMainButton.js"></script>
+    <script src="src/GameObject/LobbySideButton.js"></script>
+	<script src="src/GameObject/CoinButton.js"></script>
+	<script src="src/GameObject/BetButton.js"></script>
+	<script src="src/GameObject/CashBar.js"></script>
+    <script src="src/GameObject/RoundBar.js"></script>
+    <script src="src/GameObject/WinEffect.js"></script>
+    <script src="src/GameObject/SpeicalWinEffect.js"></script>
+	<script src="src/GameObject/Poker.js"></script>
+    <script src="src/GameObject/PokerOpenWindow.js"></script>
+	<script src="src/GameObject/Coin.js"></script>
+    <script src="src/GameObject/CardTable.js"></script>
+    <script src="src/GameObject/SpriteText.js"></script>
+    <script src="src/GameObject/Counter.js"></script>
+    <script src="src/GameObject/PieProgress.js"></script>
+    <script src="src/GameObject/S7BetButton.js"></script>
+    <script src="src/GameObject/BWBetButton.js"></script>
+    <script src="src/GameObject/PerfectBetButton.js"></script>
+    <script src="src/GameObject/PerfectCardTable.js"></script>
+    <script src="src/GameObject/ProgressBar.js"></script>
+    <script src="src/GameObject/PerfectMarioSlot.js"></script>
+    <script src="src/GameObject/PerfectBonusHint.js"></script>
+    <script src="src/GameObject/PerfectBonusPoint.js"></script>
+    <script src="src/GameObject/JSTimer.js"></script>
+    <script src="src/combination.js"></script>
+    <script src="src/Window/GameMessage.js"></script>
+    <script src="src/Window/OddsInfoWindow.js"></script>
+    <script src="src/Window/BWOddsWindow.js"></script>
+    <script src="src/Window/BetInfoWindow.js"></script>
+    <script src="src/Window/InfoMenu.js"></script>
+    <script src="src/Window/TutorialWindow.js"></script>
+    <script src="src/Window/BoardWindow.js"></script>
+    <script src="src/Window/S7HistoryWindow.js"></script>
+    <script src="src/Window/PerfectHistoryWindow.js"></script>
+    <script src="src/Window/PerfectOddsWindow.js"></script>
+    <script src="src/Window/PerfectBetWindow.js"></script>
+    <script src="src/Window/S7OddsWindow.js"></script>
+    <script src="src/Window/S7BetWindow.js"></script>
+    <script src="src/Window/RecordPoint.js"></script>
+    <script src="src/Window/RecordRect.js"></script>
+    <script src="src/Window/SettingWindow.js"></script>
+
+    <script src="src/Scene/Boot.js"></script>
+	<script src="src/Scene/Preloader.js"></script>
+    <script src="src/Scene/BigWin.js"></script>
+	<script src="src/Scene/MainMenu.js"></script>
+    <script src="src/Scene/Super7.js"></script>
+    <script src="src/Scene/PerfectAngel.js"></script>
+    <!-- Load game entrance -->
+    <script src="src/app.js"></script> 
+	
+
+</head>
+<body>
+    <!-- Main canvas for rendering game stage -->
+    <div id="game"></div>
+    <div id="orientation"></div>
+</body>
+</html>

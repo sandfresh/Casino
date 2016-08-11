@@ -1,0 +1,124 @@
+{"frames": [
+
+{
+	"filename": "betvaluetable",
+	"frame": {"x":2,"y":794,"w":580,"h":302},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":580,"h":302},
+	"sourceSize": {"w":580,"h":302}
+},
+{
+	"filename": "bluesmallball",
+	"frame": {"x":889,"y":46,"w":50,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":42},
+	"sourceSize": {"w":50,"h":42}
+},
+{
+	"filename": "extrabonousbar",
+	"frame": {"x":2,"y":1400,"w":580,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":580,"h":78},
+	"sourceSize": {"w":580,"h":78}
+},
+{
+	"filename": "extraprogressbar",
+	"frame": {"x":584,"y":52,"w":303,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":303,"h":23},
+	"sourceSize": {"w":303,"h":23}
+},
+{
+	"filename": "historytable",
+	"frame": {"x":2,"y":1098,"w":580,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":580,"h":300},
+	"sourceSize": {"w":580,"h":300}
+},
+{
+	"filename": "oddspercent",
+	"frame": {"x":2,"y":398,"w":580,"h":394},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":580,"h":394},
+	"sourceSize": {"w":580,"h":394}
+},
+{
+	"filename": "oddsreference",
+	"frame": {"x":2,"y":2,"w":580,"h":394},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":580,"h":394},
+	"sourceSize": {"w":580,"h":394}
+},
+{
+	"filename": "pinkprogress",
+	"frame": {"x":584,"y":27,"w":303,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":303,"h":23},
+	"sourceSize": {"w":303,"h":23}
+},
+{
+	"filename": "progressbar",
+	"frame": {"x":584,"y":125,"w":263,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":22},
+	"sourceSize": {"w":263,"h":22}
+},
+{
+	"filename": "purpleprogress",
+	"frame": {"x":584,"y":2,"w":303,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":303,"h":23},
+	"sourceSize": {"w":303,"h":23}
+},
+{
+	"filename": "redbetbar",
+	"frame": {"x":584,"y":101,"w":263,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":22},
+	"sourceSize": {"w":263,"h":22}
+},
+{
+	"filename": "redsmallball",
+	"frame": {"x":941,"y":2,"w":50,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":42},
+	"sourceSize": {"w":50,"h":42}
+},
+{
+	"filename": "whiteball",
+	"frame": {"x":889,"y":2,"w":50,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":42},
+	"sourceSize": {"w":50,"h":42}
+},
+{
+	"filename": "yellowbetbar",
+	"frame": {"x":584,"y":77,"w":263,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":22},
+	"sourceSize": {"w":263,"h":22}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "infowindowsheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:25b5437349d0816e7bb3075878f69c59:aadcd817b8ac0ec958dad9e7754044b5:90087f1dfe8386d9c27b093fd75971fa$"
+}
+}

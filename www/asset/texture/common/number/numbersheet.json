@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "d0",
+	"frame": {"x":1,"y":1,"w":160,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":224},
+	"sourceSize": {"w":160,"h":224}
+},
+{
+	"filename": "d1",
+	"frame": {"x":163,"y":1,"w":160,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":224},
+	"sourceSize": {"w":160,"h":224}
+},
+{
+	"filename": "d2",
+	"frame": {"x":325,"y":1,"w":160,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":224},
+	"sourceSize": {"w":160,"h":224}
+},
+{
+	"filename": "d3",
+	"frame": {"x":487,"y":1,"w":160,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":224},
+	"sourceSize": {"w":160,"h":224}
+},
+{
+	"filename": "d4",
+	"frame": {"x":649,"y":1,"w":160,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":224},
+	"sourceSize": {"w":160,"h":224}
+},
+{
+	"filename": "d5",
+	"frame": {"x":811,"y":1,"w":160,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":224},
+	"sourceSize": {"w":160,"h":224}
+},
+{
+	"filename": "d6",
+	"frame": {"x":973,"y":1,"w":160,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":224},
+	"sourceSize": {"w":160,"h":224}
+},
+{
+	"filename": "d7",
+	"frame": {"x":1135,"y":1,"w":160,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":224},
+	"sourceSize": {"w":160,"h":224}
+},
+{
+	"filename": "d8",
+	"frame": {"x":1297,"y":1,"w":160,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":224},
+	"sourceSize": {"w":160,"h":224}
+},
+{
+	"filename": "d9",
+	"frame": {"x":1459,"y":1,"w":160,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":224},
+	"sourceSize": {"w":160,"h":224}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "numbersheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1620,"h":226},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4f6bfaa4219ce346001def42064c3b0a:700ce08eb27dec0491b96f828d4a206b:28ce2831ddb405e0667f8f90e70b0a8a$"
+}
+}

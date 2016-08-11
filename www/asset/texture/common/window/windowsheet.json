@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "headerwindow",
+	"frame": {"x":2,"y":455,"w":650,"h":451},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":650,"h":451},
+	"sourceSize": {"w":650,"h":451}
+},
+{
+	"filename": "noheaderwindow",
+	"frame": {"x":2,"y":2,"w":650,"h":451},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":650,"h":451},
+	"sourceSize": {"w":650,"h":451}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "windowsheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fd9970c40593149ce84227eb51a89dd7:41ee502fe141de6e9ec646f31c432106:a2fccfc6be7b4f4966f145d264d1b471$"
+}
+}

@@ -1,0 +1,124 @@
+{"frames": [
+
+{
+	"filename": "bc1",
+	"frame": {"x":1,"y":1,"w":388,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":550},
+	"sourceSize": {"w":388,"h":550}
+},
+{
+	"filename": "bc2",
+	"frame": {"x":1171,"y":1,"w":388,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":550},
+	"sourceSize": {"w":388,"h":550}
+},
+{
+	"filename": "bc3",
+	"frame": {"x":1561,"y":1,"w":388,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":550},
+	"sourceSize": {"w":388,"h":550}
+},
+{
+	"filename": "bc4",
+	"frame": {"x":391,"y":553,"w":388,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":550},
+	"sourceSize": {"w":388,"h":550}
+},
+{
+	"filename": "bc5",
+	"frame": {"x":391,"y":1105,"w":388,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":550},
+	"sourceSize": {"w":388,"h":550}
+},
+{
+	"filename": "bc6",
+	"frame": {"x":781,"y":553,"w":388,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":550},
+	"sourceSize": {"w":388,"h":550}
+},
+{
+	"filename": "bc7",
+	"frame": {"x":781,"y":1105,"w":388,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":550},
+	"sourceSize": {"w":388,"h":550}
+},
+{
+	"filename": "bc8",
+	"frame": {"x":1171,"y":553,"w":388,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":550},
+	"sourceSize": {"w":388,"h":550}
+},
+{
+	"filename": "bc9",
+	"frame": {"x":1561,"y":553,"w":388,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":550},
+	"sourceSize": {"w":388,"h":550}
+},
+{
+	"filename": "bc10",
+	"frame": {"x":1,"y":553,"w":388,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":550},
+	"sourceSize": {"w":388,"h":550}
+},
+{
+	"filename": "bc11",
+	"frame": {"x":1,"y":1105,"w":388,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":550},
+	"sourceSize": {"w":388,"h":550}
+},
+{
+	"filename": "bc12",
+	"frame": {"x":391,"y":1,"w":388,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":550},
+	"sourceSize": {"w":388,"h":550}
+},
+{
+	"filename": "bc13",
+	"frame": {"x":781,"y":1,"w":388,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":550},
+	"sourceSize": {"w":388,"h":550}
+},
+{
+	"filename": "bcardback",
+	"frame": {"x":1171,"y":1105,"w":388,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":550},
+	"sourceSize": {"w":388,"h":550}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "BigCardSheet0.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2aa2b2e69b1123e715baba94d06f5f90:28fab570ea0887c45b541cb30622482a:31d0002d7b49637088d6386d1f9b8695$"
+}
+}

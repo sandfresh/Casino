@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "background",
+	"frame": {"x":498,"y":1212,"w":768,"h":432},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":768,"h":432},
+	"sourceSize": {"w":768,"h":432}
+},
+{
+	"filename": "bettable",
+	"frame": {"x":2,"y":2,"w":1920,"h":748},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":748},
+	"sourceSize": {"w":1920,"h":748}
+},
+{
+	"filename": "dealer0",
+	"frame": {"x":2,"y":1234,"w":494,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":494,"h":480},
+	"sourceSize": {"w":494,"h":480}
+},
+{
+	"filename": "dealer1",
+	"frame": {"x":1290,"y":752,"w":494,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":494,"h":480},
+	"sourceSize": {"w":494,"h":480}
+},
+{
+	"filename": "dot",
+	"frame": {"x":1924,"y":2,"w":44,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":42},
+	"sourceSize": {"w":44,"h":42}
+},
+{
+	"filename": "specialodds",
+	"frame": {"x":1268,"y":1234,"w":296,"h":426},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":426},
+	"sourceSize": {"w":296,"h":426}
+},
+{
+	"filename": "tabletext",
+	"frame": {"x":2,"y":752,"w":1286,"h":458},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1286,"h":458},
+	"sourceSize": {"w":1286,"h":458}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "bigwinmainsheet.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f22222067e549a2231528e6192e64873:c8f41d71b9ef6d369c5999e93e36af18:78ec8b0b4cbe52f569270cbc0f00bd71$"
+}
+}

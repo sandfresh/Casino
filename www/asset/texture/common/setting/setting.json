@@ -1,0 +1,132 @@
+{"frames": [
+
+{
+	"filename": "accounttext",
+	"frame": {"x":1912,"y":436,"w":118,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":64},
+	"sourceSize": {"w":118,"h":64}
+},
+{
+	"filename": "gamebtn0",
+	"frame": {"x":1530,"y":296,"w":266,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":96},
+	"sourceSize": {"w":266,"h":96}
+},
+{
+	"filename": "gamebtn1",
+	"frame": {"x":1530,"y":198,"w":266,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":96},
+	"sourceSize": {"w":266,"h":96}
+},
+{
+	"filename": "logoutbtn0",
+	"frame": {"x":1798,"y":278,"w":222,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":222,"h":90},
+	"sourceSize": {"w":222,"h":90}
+},
+{
+	"filename": "logoutbtn1",
+	"frame": {"x":1798,"y":186,"w":222,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":222,"h":90},
+	"sourceSize": {"w":222,"h":90}
+},
+{
+	"filename": "modifybtn0",
+	"frame": {"x":1798,"y":94,"w":222,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":222,"h":90},
+	"sourceSize": {"w":222,"h":90}
+},
+{
+	"filename": "modifybtn1",
+	"frame": {"x":1798,"y":2,"w":222,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":222,"h":90},
+	"sourceSize": {"w":222,"h":90}
+},
+{
+	"filename": "musictext",
+	"frame": {"x":1792,"y":436,"w":118,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":64},
+	"sourceSize": {"w":118,"h":64}
+},
+{
+	"filename": "nicknametext",
+	"frame": {"x":1918,"y":370,"w":118,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":64},
+	"sourceSize": {"w":118,"h":64}
+},
+{
+	"filename": "personalbtn0",
+	"frame": {"x":1530,"y":100,"w":266,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":96},
+	"sourceSize": {"w":266,"h":96}
+},
+{
+	"filename": "personalbtn1",
+	"frame": {"x":1530,"y":2,"w":266,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":96},
+	"sourceSize": {"w":266,"h":96}
+},
+{
+	"filename": "settingwindow",
+	"frame": {"x":2,"y":2,"w":1526,"h":1080},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1526,"h":1080},
+	"sourceSize": {"w":1526,"h":1080}
+},
+{
+	"filename": "soundtext",
+	"frame": {"x":1798,"y":370,"w":118,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":64},
+	"sourceSize": {"w":118,"h":64}
+},
+{
+	"filename": "togglebtn0",
+	"frame": {"x":1530,"y":470,"w":260,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":74},
+	"sourceSize": {"w":260,"h":74}
+},
+{
+	"filename": "togglebtn1",
+	"frame": {"x":1530,"y":394,"w":260,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":74},
+	"sourceSize": {"w":260,"h":74}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "setting.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:74002a12c33e2dc67e23e84e4d4e78f0:d3ddfe7d822db6299a91ffe979f723eb:26f76d96e70d736020a1881f5c17abf8$"
+}
+}

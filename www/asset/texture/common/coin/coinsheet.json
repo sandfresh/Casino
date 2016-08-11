@@ -1,0 +1,260 @@
+{"frames": [
+
+{
+	"filename": "coin100_0",
+	"frame": {"x":214,"y":968,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin100_1",
+	"frame": {"x":2,"y":968,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin100_2",
+	"frame": {"x":638,"y":830,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin10_0",
+	"frame": {"x":426,"y":830,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin10_1",
+	"frame": {"x":214,"y":830,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin10_2",
+	"frame": {"x":2,"y":830,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin10k_0",
+	"frame": {"x":638,"y":692,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin10k_1",
+	"frame": {"x":426,"y":692,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin10k_2",
+	"frame": {"x":214,"y":692,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin1_0",
+	"frame": {"x":2,"y":692,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin1_1",
+	"frame": {"x":638,"y":554,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin1_2",
+	"frame": {"x":426,"y":554,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin1k_0",
+	"frame": {"x":214,"y":554,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin1k_1",
+	"frame": {"x":2,"y":554,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin1k_2",
+	"frame": {"x":638,"y":416,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin25_0",
+	"frame": {"x":426,"y":416,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin25_1",
+	"frame": {"x":214,"y":416,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin25_2",
+	"frame": {"x":2,"y":416,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin500_0",
+	"frame": {"x":638,"y":278,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin500_1",
+	"frame": {"x":426,"y":278,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin500_2",
+	"frame": {"x":214,"y":278,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin50_0",
+	"frame": {"x":2,"y":278,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin50_1",
+	"frame": {"x":638,"y":140,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin50_2",
+	"frame": {"x":426,"y":140,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin5_0",
+	"frame": {"x":214,"y":140,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin5_1",
+	"frame": {"x":2,"y":140,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin5_2",
+	"frame": {"x":638,"y":2,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin5k_0",
+	"frame": {"x":426,"y":2,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin5k_1",
+	"frame": {"x":214,"y":2,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coin5k_2",
+	"frame": {"x":2,"y":2,"w":210,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":136},
+	"sourceSize": {"w":210,"h":136}
+},
+{
+	"filename": "coinshadow",
+	"frame": {"x":850,"y":2,"w":162,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":162,"h":98},
+	"sourceSize": {"w":162,"h":98}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "coinsheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b67de8d16d18e8b2c2fd0c7129367961:e9844cdd29eadaccac35bbcc8dc17684:daa9344c7ebcbe04f5d42a40dd139551$"
+}
+}

@@ -1,0 +1,33 @@
+<font>
+	<info face="D:\Material	est-export" size="40" />
+	<common lineHeight="40" scaleW="191" scaleH="172" pages="1" />
+	<pages>
+		<page id="0" file="rollfont.png" />
+	</pages>
+	<chars count="22">
+		<char id="40670" x="84" y="125" width="40" height="42" xoffset="0" yoffset="-1" xadvance="41" /><!-- 點 -->
+		<char id="36104" x="0" y="43" width="42" height="42" xoffset="0" yoffset="-1" xadvance="43" /><!-- 贈 -->
+		<char id="28961" x="85" y="82" width="40" height="41" xoffset="0" yoffset="0" xadvance="41" /><!-- 無 -->
+		<char id="26781" x="0" y="86" width="42" height="42" xoffset="0" yoffset="-1" xadvance="43" /><!-- 條 -->
+		<char id="22806" x="43" y="82" width="41" height="42" xoffset="0" yoffset="-1" xadvance="42" /><!-- 外 -->
+		<char id="22235" x="43" y="125" width="40" height="39" xoffset="0" yoffset="1" xadvance="41" /><!-- 四 -->
+		<char id="21213" x="0" y="0" width="42" height="42" xoffset="0" yoffset="-1" xadvance="43" /><!-- 勝 -->
+		<char id="20844" x="43" y="41" width="42" height="40" xoffset="0" yoffset="0" xadvance="43" /><!-- 公 -->
+		<char id="20493" x="0" y="129" width="42" height="42" xoffset="0" yoffset="-1" xadvance="43" /><!-- 倍 -->
+		<char id="20116" x="43" y="0" width="42" height="40" xoffset="0" yoffset="0" xadvance="43" /><!-- 五 -->
+		<char id="57" x="154" y="0" width="33" height="40" xoffset="0" yoffset="0" xadvance="34" /><!-- 9 -->
+		<char id="56" x="86" y="41" width="33" height="40" xoffset="0" yoffset="0" xadvance="34" /><!-- 8 -->
+		<char id="55" x="126" y="82" width="33" height="40" xoffset="0" yoffset="0" xadvance="34" /><!-- 7 -->
+		<char id="54" x="86" y="0" width="33" height="40" xoffset="0" yoffset="0" xadvance="34" /><!-- 6 -->
+		<char id="53" x="154" y="41" width="32" height="40" xoffset="0" yoffset="0" xadvance="33" /><!-- 5 -->
+		<char id="52" x="125" y="124" width="33" height="40" xoffset="0" yoffset="0" xadvance="34" /><!-- 4 -->
+		<char id="51" x="159" y="123" width="31" height="40" xoffset="0" yoffset="0" xadvance="32" /><!-- 3 -->
+		<char id="50" x="120" y="0" width="33" height="40" xoffset="0" yoffset="0" xadvance="34" /><!-- 2 -->
+		<char id="49" x="160" y="82" width="27" height="40" xoffset="0" yoffset="0" xadvance="28" /><!-- 1 -->
+		<char id="48" x="120" y="41" width="33" height="40" xoffset="0" yoffset="0" xadvance="34" /><!-- 0 -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="20" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="160" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "bonusframe",
+	"frame": {"x":2,"y":2,"w":986,"h":906},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":986,"h":906},
+	"sourceSize": {"w":986,"h":906}
+},
+{
+	"filename": "bonuspoint",
+	"frame": {"x":827,"y":1032,"w":120,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "bonuspoint1",
+	"frame": {"x":576,"y":910,"w":249,"h":237},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":249,"h":237},
+	"sourceSize": {"w":249,"h":237}
+},
+{
+	"filename": "bonuspointmask",
+	"frame": {"x":827,"y":910,"w":120,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+{
+	"filename": "marqueeframe0",
+	"frame": {"x":2,"y":1062,"w":572,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":572,"h":74},
+	"sourceSize": {"w":572,"h":74}
+},
+{
+	"filename": "marqueeframe1",
+	"frame": {"x":2,"y":986,"w":572,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":572,"h":74},
+	"sourceSize": {"w":572,"h":74}
+},
+{
+	"filename": "marqueeframe2",
+	"frame": {"x":2,"y":910,"w":572,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":572,"h":74},
+	"sourceSize": {"w":572,"h":74}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "marioslotsheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8896a92dba33c2956c8db64483cb711d:4cb62509ed97e84742bad3f843a44455:6be2ab551862bc10d0616b4cca152900$"
+}
+}

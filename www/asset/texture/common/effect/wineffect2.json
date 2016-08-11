@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "fivekind",
+	"frame": {"x":2,"y":2,"w":738,"h":370},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":738,"h":370},
+	"sourceSize": {"w":738,"h":370}
+},
+{
+	"filename": "fivetimes",
+	"frame": {"x":742,"y":2,"w":738,"h":370},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":738,"h":370},
+	"sourceSize": {"w":738,"h":370}
+},
+{
+	"filename": "flush",
+	"frame": {"x":2,"y":374,"w":738,"h":370},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":738,"h":370},
+	"sourceSize": {"w":738,"h":370}
+},
+{
+	"filename": "four",
+	"frame": {"x":742,"y":374,"w":738,"h":370},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":738,"h":370},
+	"sourceSize": {"w":738,"h":370}
+},
+{
+	"filename": "fullhouse",
+	"frame": {"x":2,"y":746,"w":738,"h":370},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":738,"h":370},
+	"sourceSize": {"w":738,"h":370}
+},
+{
+	"filename": "pair",
+	"frame": {"x":2,"y":1118,"w":738,"h":370},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":738,"h":370},
+	"sourceSize": {"w":738,"h":370}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "wineffect2.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7dfc047d711c19503f909a54065ac352:591250867e763b10fb73dfa2f9639188:10fe00de8f09ee141f7f604f9da74a97$"
+}
+}

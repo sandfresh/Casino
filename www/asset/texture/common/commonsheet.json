@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "cashbar",
+	"frame": {"x":2,"y":2,"w":436,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":436,"h":84},
+	"sourceSize": {"w":436,"h":84}
+},
+{
+	"filename": "counterball",
+	"frame": {"x":2,"y":156,"w":234,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":230},
+	"sourceSize": {"w":234,"h":230}
+},
+{
+	"filename": "highodds0",
+	"frame": {"x":158,"y":388,"w":154,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":78},
+	"sourceSize": {"w":154,"h":78}
+},
+{
+	"filename": "highodds1",
+	"frame": {"x":2,"y":388,"w":154,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":78},
+	"sourceSize": {"w":154,"h":78}
+},
+{
+	"filename": "roundbar",
+	"frame": {"x":2,"y":88,"w":406,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":406,"h":66},
+	"sourceSize": {"w":406,"h":66}
+},
+{
+	"filename": "score",
+	"frame": {"x":440,"y":2,"w":64,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":36},
+	"sourceSize": {"w":64,"h":36}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "commonsheet.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e6797d99c0bfa31fe37c45f2856c0370:e1c6ee8ae777acc50604a31397e6a9ec:216617c15cfaa383b87059afd590b81a$"
+}
+}

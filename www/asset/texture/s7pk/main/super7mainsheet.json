@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "background",
+	"frame": {"x":2,"y":752,"w":960,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540}
+},
+{
+	"filename": "bettable",
+	"frame": {"x":2,"y":2,"w":1920,"h":748},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":748},
+	"sourceSize": {"w":1920,"h":748}
+},
+{
+	"filename": "boardtext",
+	"frame": {"x":1924,"y":2,"w":96,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":52},
+	"sourceSize": {"w":96,"h":52}
+},
+{
+	"filename": "dealer0",
+	"frame": {"x":482,"y":1294,"w":478,"h":510},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":478,"h":510},
+	"sourceSize": {"w":478,"h":510}
+},
+{
+	"filename": "dealer1",
+	"frame": {"x":2,"y":1294,"w":478,"h":510},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":478,"h":510},
+	"sourceSize": {"w":478,"h":510}
+},
+{
+	"filename": "mainodds",
+	"frame": {"x":964,"y":752,"w":1048,"h":380},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1048,"h":380},
+	"sourceSize": {"w":1048,"h":380}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "super7mainsheet.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1bdf18ba846d81efce7001c9d2061929:a37b7bf529253bff84baa40271026507:0ea017f53f039b0b330c6750c8c3c3da$"
+}
+}

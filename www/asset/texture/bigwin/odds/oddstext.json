@@ -1,0 +1,116 @@
+{"frames": [
+
+{
+	"filename": "flutext0",
+	"frame": {"x":1146,"y":102,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "flutext1",
+	"frame": {"x":1146,"y":52,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "fourtext0",
+	"frame": {"x":574,"y":202,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "fourtext1",
+	"frame": {"x":574,"y":152,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "fuhtext0",
+	"frame": {"x":574,"y":102,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "fuhtext1",
+	"frame": {"x":1460,"y":2,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "oddstitletext",
+	"frame": {"x":2,"y":2,"w":312,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":54},
+	"sourceSize": {"w":312,"h":54}
+},
+{
+	"filename": "roftext0",
+	"frame": {"x":888,"y":2,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "roftext1",
+	"frame": {"x":574,"y":52,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "stftext0",
+	"frame": {"x":2,"y":158,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "stftext1",
+	"frame": {"x":2,"y":108,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "strtext0",
+	"frame": {"x":316,"y":2,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "strtext1",
+	"frame": {"x":2,"y":58,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "oddstext.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:06791ceb3678d43b450ed37080b839af:996bbe18f96609f0943343b1600f7004:97bf7e88a7f8b3f8e5bea9a11affb240$"
+}
+}

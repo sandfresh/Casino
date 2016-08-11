@@ -1,0 +1,332 @@
+{"frames": [
+
+{
+	"filename": "fivebet0",
+	"frame": {"x":908,"y":1162,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "fivebet1",
+	"frame": {"x":1512,"y":930,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "fivebet2",
+	"frame": {"x":1210,"y":930,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "flushbet0",
+	"frame": {"x":908,"y":930,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "flushbet1",
+	"frame": {"x":606,"y":1626,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "flushbet2",
+	"frame": {"x":606,"y":1394,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "fourbet0",
+	"frame": {"x":606,"y":1162,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "fourbet1",
+	"frame": {"x":1456,"y":698,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "fourbet2",
+	"frame": {"x":1154,"y":698,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "fullhousebet0",
+	"frame": {"x":852,"y":698,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "fullhousebet1",
+	"frame": {"x":606,"y":930,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "fullhousebet2",
+	"frame": {"x":1620,"y":466,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "highbet0",
+	"frame": {"x":1318,"y":466,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "highbet1",
+	"frame": {"x":1016,"y":466,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "highbet2",
+	"frame": {"x":1620,"y":234,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "mainbet0",
+	"frame": {"x":2,"y":420,"w":408,"h":416},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":408,"h":416},
+	"sourceSize": {"w":408,"h":416}
+},
+{
+	"filename": "mainbet1",
+	"frame": {"x":2,"y":2,"w":408,"h":416},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":408,"h":416},
+	"sourceSize": {"w":408,"h":416}
+},
+{
+	"filename": "pairbet0",
+	"frame": {"x":1318,"y":234,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "pairbet1",
+	"frame": {"x":1016,"y":234,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "pairbet2",
+	"frame": {"x":1620,"y":2,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "pureroyalbet0",
+	"frame": {"x":1318,"y":2,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "pureroyalbet1",
+	"frame": {"x":1016,"y":2,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "pureroyalbet2",
+	"frame": {"x":304,"y":1766,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "raisebet0",
+	"frame": {"x":2,"y":838,"w":244,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":244,"h":260},
+	"sourceSize": {"w":244,"h":260}
+},
+{
+	"filename": "raisebet1",
+	"frame": {"x":2,"y":838,"w":244,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":244,"h":260},
+	"sourceSize": {"w":244,"h":260}
+},
+{
+	"filename": "royalbet0",
+	"frame": {"x":304,"y":1534,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "royalbet1",
+	"frame": {"x":304,"y":1302,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "royalbet2",
+	"frame": {"x":714,"y":466,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "straightbet0",
+	"frame": {"x":714,"y":234,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "straightbet1",
+	"frame": {"x":714,"y":2,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "straightbet2",
+	"frame": {"x":550,"y":698,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "strflushbet0",
+	"frame": {"x":304,"y":1070,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "strflushbet1",
+	"frame": {"x":412,"y":466,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "strflushbet2",
+	"frame": {"x":412,"y":234,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "triplebet0",
+	"frame": {"x":412,"y":2,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "triplebet1",
+	"frame": {"x":2,"y":1796,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "triplebet2",
+	"frame": {"x":2,"y":1564,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "twopairbet0",
+	"frame": {"x":2,"y":1332,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "twopairbet1",
+	"frame": {"x":248,"y":838,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+},
+{
+	"filename": "twopairbet2",
+	"frame": {"x":2,"y":1100,"w":300,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":230},
+	"sourceSize": {"w":300,"h":230}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "betbuttonsheet.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9056274f6f2d3386e9ba154b067a7ed4:e4322d4657bef2d92ffd1558802ec311:54d56da02cb5a00a53c1db860cd120c5$"
+}
+}

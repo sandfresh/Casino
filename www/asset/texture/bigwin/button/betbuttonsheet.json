@@ -1,0 +1,108 @@
+{"frames": [
+
+{
+	"filename": "banker0",
+	"frame": {"x":472,"y":428,"w":468,"h":423},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":468,"h":423},
+	"sourceSize": {"w":468,"h":423}
+},
+{
+	"filename": "banker1",
+	"frame": {"x":2,"y":428,"w":468,"h":423},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":468,"h":423},
+	"sourceSize": {"w":468,"h":423}
+},
+{
+	"filename": "bankerpair0",
+	"frame": {"x":2,"y":1503,"w":390,"h":324},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":390,"h":324},
+	"sourceSize": {"w":390,"h":324}
+},
+{
+	"filename": "bankerpair1",
+	"frame": {"x":2,"y":1177,"w":390,"h":324},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":390,"h":324},
+	"sourceSize": {"w":390,"h":324}
+},
+{
+	"filename": "draw0",
+	"frame": {"x":394,"y":1444,"w":389,"h":265},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":389,"h":265},
+	"sourceSize": {"w":389,"h":265}
+},
+{
+	"filename": "draw1",
+	"frame": {"x":394,"y":1177,"w":389,"h":265},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":389,"h":265},
+	"sourceSize": {"w":389,"h":265}
+},
+{
+	"filename": "player0",
+	"frame": {"x":476,"y":2,"w":472,"h":424},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":472,"h":424},
+	"sourceSize": {"w":472,"h":424}
+},
+{
+	"filename": "player1",
+	"frame": {"x":2,"y":2,"w":472,"h":424},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":472,"h":424},
+	"sourceSize": {"w":472,"h":424}
+},
+{
+	"filename": "playerpair0",
+	"frame": {"x":400,"y":853,"w":396,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":322},
+	"sourceSize": {"w":396,"h":322}
+},
+{
+	"filename": "playerpair1",
+	"frame": {"x":2,"y":853,"w":396,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":322},
+	"sourceSize": {"w":396,"h":322}
+},
+{
+	"filename": "special0",
+	"frame": {"x":363,"y":1829,"w":359,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":359,"h":176},
+	"sourceSize": {"w":359,"h":176}
+},
+{
+	"filename": "special1",
+	"frame": {"x":2,"y":1829,"w":359,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":359,"h":176},
+	"sourceSize": {"w":359,"h":176}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "betbuttonsheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:21ee3fd051d6802247f8a893729da27b:82ae341aa06ee3bcf803962a957dcd2f:54d56da02cb5a00a53c1db860cd120c5$"
+}
+}

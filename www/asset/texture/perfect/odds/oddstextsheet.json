@@ -1,0 +1,108 @@
+{"frames": [
+
+{
+	"filename": "10win0",
+	"frame": {"x":2,"y":828,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "10win1",
+	"frame": {"x":2,"y":778,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "17win0",
+	"frame": {"x":2,"y":728,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "17win1",
+	"frame": {"x":2,"y":678,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "89win0",
+	"frame": {"x":2,"y":628,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "89win1",
+	"frame": {"x":2,"y":578,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "betvaluetable",
+	"frame": {"x":2,"y":2,"w":580,"h":374},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":580,"h":374},
+	"sourceSize": {"w":580,"h":374}
+},
+{
+	"filename": "fivewin0",
+	"frame": {"x":2,"y":528,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "fivewin1",
+	"frame": {"x":2,"y":478,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "fourwin0",
+	"frame": {"x":2,"y":428,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "fourwin1",
+	"frame": {"x":2,"y":378,"w":570,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":48},
+	"sourceSize": {"w":570,"h":48}
+},
+{
+	"filename": "mainodds",
+	"frame": {"x":584,"y":2,"w":160,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":54},
+	"sourceSize": {"w":160,"h":54}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "oddstextsheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f641a062d45b6cdead33def8f7d75df2:f0b88ddf42c5e83251e0322e9a728c52:64e926710ad7882ecd771e0b273aa616$"
+}
+}
